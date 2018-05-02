@@ -1,0 +1,9 @@
+2018-05-02 23:12:14 INFO  RegistrationSteps:22 - Opening the automation practice page
+2018-05-02 23:12:18 INFO  BaseConfig:117 - URL of the Automation practice pagehttp://automationpractice.com/
+2018-05-02 23:12:18 INFO  HomePage:14 - going to URL: http://automationpractice.com/
+2018-05-02 23:12:33 INFO  RegistrationSteps:32 - Entering valid email and clicking on create account
+2018-05-02 23:12:33 INFO  BaseConfig:148 - email address: test_practice02051525266753338@mailinator.com
+2018-05-02 23:12:33 INFO  RegistrationSteps:39 - Check if the account creation page is loaded
+2018-05-02 23:12:36 INFO  RegistrationSteps:41 - Extracting data from Csv file
+2018-05-02 23:12:36 INFO  ReadTestData:35 - OS Name: Windows 7
+2018-05-02 23:12:36 INFO  ReadTestData:42 - configPath: D:\Practice\src\test\resources\TestData.csv

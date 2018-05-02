@@ -1,0 +1,10 @@
+2018-05-02 23:20:31 INFO  RegistrationSteps:22 - Extracting data from Csv file
+2018-05-02 23:20:31 INFO  ReadTestData:35 - OS Name: Windows 7
+2018-05-02 23:20:31 INFO  ReadTestData:42 - configPath: D:\Practice\src\test\resources\TestData.csv
+2018-05-02 23:20:31 INFO  RegistrationSteps:35 - Opening the automation practice page
+2018-05-02 23:20:35 INFO  BaseConfig:116 - URL of the Automation practice pagehttp://automationpractice.com/
+2018-05-02 23:20:35 INFO  HomePage:14 - going to URL: http://automationpractice.com/
+2018-05-02 23:20:57 INFO  RegistrationSteps:22 - Extracting data from Csv file
+2018-05-02 23:20:57 INFO  ReadTestData:35 - OS Name: Windows 7
+2018-05-02 23:20:57 INFO  ReadTestData:42 - configPath: D:\Practice\src\test\resources\TestData.csv
+2018-05-02 23:20:57 INFO  RegistrationSteps:35 - Opening the automation practice page

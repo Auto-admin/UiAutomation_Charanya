@@ -1,0 +1,4 @@
+2018-05-02 22:23:26 INFO  RegistrationSteps:19 - Opening the automation practice page
+2018-05-02 22:23:30 INFO  BaseConfig:117 - URL of the Automation practice pagehttp://automationpractice.com/
+2018-05-02 22:23:30 INFO  HomePage:14 - going to URL: http://automationpractice.com/
+2018-05-02 22:23:40 INFO  BaseConfig:148 - email address: test_practice02051525263820524@mailinator.com
