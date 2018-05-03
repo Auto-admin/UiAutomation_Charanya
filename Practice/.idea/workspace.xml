@@ -2,35 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c278b304-27e9-45f3-8ca5-4ad4edc841eb" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_3_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_20.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_23.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_23.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_23.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_htmlunit_driver_2_23.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_jetty_repacked_9_2_13_v20160825.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_server_3_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/config/geckodriver-v0.14.0-win64.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/resources/Features/Practice.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Features/Practice.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Features/Practice.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/au/com/uiautomation/StepDefinitions/BasePageSteps.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/au/com/uiautomation/BaseConfig.class" afterPath="$PROJECT_DIR$/target/test-classes/au/com/uiautomation/BaseConfig.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/au/com/uiautomation/Page/HomePage.class" afterPath="$PROJECT_DIR$/target/test-classes/au/com/uiautomation/Page/HomePage.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/au/com/uiautomation/Page/RegistrationPage.class" afterPath="$PROJECT_DIR$/target/test-classes/au/com/uiautomation/Page/RegistrationPage.class" />
@@ -38,19 +9,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/au/com/uiautomation/PageObjects/Registrationpageobjects.class" afterPath="$PROJECT_DIR$/target/test-classes/au/com/uiautomation/PageObjects/Registrationpageobjects.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/au/com/uiautomation/RunCucumberTest.class" afterPath="$PROJECT_DIR$/target/test-classes/au/com/uiautomation/RunCucumberTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/au/com/uiautomation/StepDefinitions/RegistrationSteps.class" afterPath="$PROJECT_DIR$/target/test-classes/au/com/uiautomation/StepDefinitions/RegistrationSteps.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/environment.properties" afterPath="$PROJECT_DIR$/environment.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/log.out" afterPath="$PROJECT_DIR$/logs/log.out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/config/geckodriver2/geckodriver.exe" afterPath="$PROJECT_DIR$/src/config/geckodriver2/geckodriver.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/BaseConfig.java" afterPath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/BaseConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/HomePage.java" afterPath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/HomePage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/RegistrationPage.java" afterPath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/RegistrationPage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/PageObjects/HomePageObjects.java" afterPath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/PageObjects/HomePageObjects.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/PageObjects/Registrationpageobjects.java" afterPath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/PageObjects/Registrationpageobjects.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/RunCucumberTest.java" afterPath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/RunCucumberTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/StepDefinitions/RegistrationSteps.java" afterPath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/StepDefinitions/RegistrationSteps.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/TestData.csv" afterPath="$PROJECT_DIR$/src/test/resources/TestData.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestData.csv" afterPath="$PROJECT_DIR$/target/classes/TestData.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/cucumber-html-report/report.js" afterPath="$PROJECT_DIR$/target/cucumber-html-report/report.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/TestData.csv" afterPath="$PROJECT_DIR$/target/test-classes/TestData.csv" />
@@ -440,6 +399,14 @@
       <option name="presentableId" value="Default" />
       <updated>1525317580786</updated>
     </task>
+    <task id="LOCAL-00001" summary="Second commit">
+      <created>1525347026453</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525347026453</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -535,6 +502,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
