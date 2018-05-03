@@ -148,6 +148,10 @@ public class BaseConfig {
         return email;
     }
 
+    public static String setValueForFirefox(String textValue){
+        return  "arguments[0].value = '" + textValue + "';";
+    }
+
     public static void terminatebrowser()
      {
          driver.quit();

@@ -7,7 +7,7 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions(features = "src/test/resources/Features",
                  glue = {"au.com.uiautomation.StepDefinitions"},
-                 tags = {"@RegistrationwithoutError"},
+                 tags = {"@CheckMegaMenu"},
                  format = {"html:target/cucumber-html-report"})
 
 

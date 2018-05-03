@@ -1,91 +1,55 @@
-$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("Registration.feature");
+$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("Megamenu.feature");
 formatter.feature({
   "line": 1,
-  "name": "Testing Registration",
+  "name": "Testing Mega menu",
   "description": "",
-  "id": "testing-registration",
+  "id": "testing-mega-menu",
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 225848022,
+  "duration": 21303829248,
   "status": "passed"
 });
 formatter.scenario({
   "line": 3,
-  "name": "Registration without error",
+  "name": "Testing if Mega menu works by checking Dresses-\u003eSummer dresses",
   "description": "",
-  "id": "testing-registration;registration-without-error",
+  "id": "testing-mega-menu;testing-if-mega-menu-works-by-checking-dresses-\u003esummer-dresses",
   "type": "scenario",
   "keyword": "Scenario",
   "tags": [
     {
       "line": 2,
-      "name": "@RegistrationwithoutError"
+      "name": "@CheckMegaMenu"
     }
   ]
 });
 formatter.step({
   "line": 4,
-  "name": "Customer opens the automation practice page and clicks on sign in",
+  "name": "Customer opens and hovers on the Mega menu Dresses",
   "keyword": "Given "
 });
 formatter.step({
   "line": 5,
-  "name": "Customer enters email address and clicks on create account",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 6,
-  "name": "Customer should be directed to the account creation page",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 7,
-  "name": "Customer Enters all the mandatory details in the page and clicks Register",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 8,
-  "name": "Customer should get signed in and should be directed to the home page",
+  "name": "Customer should be able to see and select the submenu summer dresses",
   "keyword": "Then "
 });
 formatter.match({
-  "location": "RegistrationSteps.customer_opens_the_automation_practice_page_and_clicks_on_sign_in()"
+  "location": "MegaMenuSteps.when_the_customer_hovers_on_the_Mega_menu_Dresses()"
 });
 formatter.result({
-  "duration": 12325368397,
+  "duration": 10236490253,
   "status": "passed"
 });
 formatter.match({
-  "location": "RegistrationSteps.customer_enters_email_address_and_clicks_on_create_account()"
+  "location": "MegaMenuSteps.customer_should_be_able_to_see_and_select_the_submenu_summer_dresses()"
 });
 formatter.result({
-  "duration": 444842076,
-  "status": "passed"
-});
-formatter.match({
-  "location": "RegistrationSteps.customer_should_be_directed_to_the_account_creation_page()"
-});
-formatter.result({
-  "duration": 3038468790,
-  "status": "passed"
-});
-formatter.match({
-  "location": "RegistrationSteps.customer_Enters_all_the_mandatory_details_in_the_page_and_clicks_Register()"
-});
-formatter.result({
-  "duration": 14586,
-  "status": "passed"
-});
-formatter.match({
-  "location": "RegistrationSteps.customer_should_get_signed_in_and_should_be_directed_to_the_home_page()"
-});
-formatter.result({
-  "duration": 9117,
+  "duration": 9316351,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1601534522,
+  "duration": 1289612262,
   "status": "passed"
 });
 });
