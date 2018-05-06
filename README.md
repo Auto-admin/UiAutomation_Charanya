@@ -26,6 +26,8 @@ does not work properly in the site, All the other features pass. Please find the
 Maven Commands
 --------------
 
+Please execute the below commands from the "Practice" folder
+
 To run individual scenarios
 ----------------------------
 mvn test -Dcucumber.options="--tags @RegistrationwithoutError" -Dmybrowser="Chrome"
