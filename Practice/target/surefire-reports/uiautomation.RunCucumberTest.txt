@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: uiautomation.RunCucumberTest
--------------------------------------------------------------------------------
-Tests run: 7, Failures: 0, Errors: 0, Skipped: 6, Time elapsed: 14.606 sec - in uiautomation.RunCucumberTest

@@ -9,15 +9,6 @@ import org.openqa.selenium.interactions.Actions;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.NoSuchElementException;
-import org.openqa.selenium.StaleElementReferenceException;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.firefox.FirefoxDriver;
-
 public class HomePage extends BaseConfig {
     private static final Logger LOGGER = LoggerFactory.getLogger(HomePage.class);
 
@@ -84,18 +75,23 @@ public class HomePage extends BaseConfig {
         }
         else if(envbrowser.equalsIgnoreCase("Firefox") )
         {
-         String mouseOverScript = "if(document.createEvent){var evObj = document.createEvent('MouseEvents');evObj.initEvent('mouseover',true, false); arguments[0].dispatchEvent(evObj);} else if(document.createEventObject) { arguments[0].fireEvent('onmouseover');}";
-         ((JavascriptExecutor) driver).executeScript(mouseOverScript,ele);
-         Thread.sleep(10000);
-    }
+            String mouseOverScript = "if(document.createEvent){var evObj = document.createEvent('MouseEvents');evObj.initEvent('mouseover',true, false); arguments[0].dispatchEvent(evObj);} else if(document.createEventObject) { arguments[0].fireEvent('onmouseover');}";
+            ((JavascriptExecutor) driver).executeScript(mouseOverScript, ele);
+            Thread.sleep(6000);
 
+    }
     }
 
     public static void clickonSummerDress() throws InterruptedException{
+        if(envbrowser.equalsIgnoreCase("Chrome") ) {
+            HomePageObjects.getSummerDresses().click();
+        }
+        else if(envbrowser.equalsIgnoreCase("Firefox") ) {
+            ((JavascriptExecutor) driver).executeScript("arguments[0].click();", HomePageObjects.getSummerDresses());
 
-        //HomePageObjects.getSummerDresses().click();
-        //Thread.sleep(6000);
-        //Assert.assertEquals(HomePageObjects.getPageSummerDresses().getText(),"Summer Dresses");
+        }
+      Thread.sleep(6000);
+      Assert.assertEquals(HomePageObjects.getPageSummerDresses().getText(),"Summer Dresses");
     }
 
 

@@ -1,14 +1,11 @@
 package au.com.uiautomation.Page;
 
 import au.com.uiautomation.BaseConfig;
-import au.com.uiautomation.PageObjects.HomePageObjects;
 import au.com.uiautomation.PageObjects.Registrationpageobjects;
 import au.com.uiautomation.ReadTestData;
 import org.junit.Assert;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.support.ui.Select;
-
-import java.util.logging.Logger;
 
 public class RegistrationPage extends BaseConfig{
 

@@ -1,2 +1,4 @@
-2018-05-03 21:23:08 INFO  MegaMenuSteps:23 - Click on Summer Dresses
-2018-05-03 21:23:08 INFO  RegistrationSteps:34 - closing the browser
+2018-05-06 20:31:06 INFO  RegistrationSteps:18 - Clicking on sign in
+2018-05-06 20:31:10 INFO  RegistrationSteps:51 - Entering valid email and clicking on create account
+2018-05-06 20:31:13 INFO  RegistrationSteps:58 - Error Message is thrown
+2018-05-06 20:31:13 INFO  RegistrationSteps:34 - closing the browser
