@@ -15,7 +15,7 @@ does not work properly in the site, All the other features pass. Please find the
 
 7) The surefire reports for parallel runs can be found under target -->surefire-reports
 
-8) The cucumber reports can be found under target->cucumber-html-report
+8) The cucumber reports can be found under target->cucumber-parallel
 
 9) Logs are writting using Log4j and stored under Practice --> logs
 
