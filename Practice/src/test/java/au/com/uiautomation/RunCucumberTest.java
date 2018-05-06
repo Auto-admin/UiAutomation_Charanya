@@ -7,8 +7,8 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions(features = "src/test/resources/Features",
                  glue = {"au.com.uiautomation.StepDefinitions"},
-                 tags = {"@CheckPriceSort"},
+                 tags = {"@RegistrationwithError"},
                  format = {"html:target/cucumber-html-report"})
 
 
-public class RunCucumberTest {};
+public class RunCucumberTest {}

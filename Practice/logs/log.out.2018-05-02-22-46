@@ -1,9 +1,0 @@
-2018-05-02 22:45:44 INFO  RegistrationSteps:21 - Opening the automation practice page
-2018-05-02 22:45:49 INFO  BaseConfig:117 - URL of the Automation practice pagehttp://automationpractice.com/
-2018-05-02 22:45:49 INFO  HomePage:14 - going to URL: http://automationpractice.com/
-2018-05-02 22:45:58 INFO  RegistrationSteps:31 - Entering valid email and clicking on create account
-2018-05-02 22:45:58 INFO  BaseConfig:148 - email address: test_practice02051525265158321@mailinator.com
-2018-05-02 22:45:59 INFO  RegistrationSteps:39 - Check if the account creation page is loaded
-2018-05-02 22:46:48 INFO  RegistrationSteps:21 - Opening the automation practice page
-2018-05-02 22:46:52 INFO  BaseConfig:117 - URL of the Automation practice pagehttp://automationpractice.com/
-2018-05-02 22:46:52 INFO  HomePage:14 - going to URL: http://automationpractice.com/

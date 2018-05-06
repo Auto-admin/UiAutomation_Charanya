@@ -1,12 +1,8 @@
 package au.com.uiautomation.StepDefinitions;
 
-import au.com.uiautomation.BaseConfig;
 import au.com.uiautomation.Page.CartPage;
-import au.com.uiautomation.Page.HomePage;
-import au.com.uiautomation.Page.SummerDressesPage;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
-import cucumber.api.java.en.When;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 public class CartSteps {

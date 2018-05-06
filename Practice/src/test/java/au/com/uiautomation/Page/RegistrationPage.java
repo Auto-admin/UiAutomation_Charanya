@@ -65,7 +65,7 @@ public class RegistrationPage extends BaseConfig{
         selState.selectByVisibleText(ReadTestData.readTestData("Registration","State"));
 
         Registrationpageobjects.getSubmitButton().click();
-        Thread.sleep(40000);
+        Thread.sleep(6000);
     }
 
 
@@ -74,7 +74,5 @@ public class RegistrationPage extends BaseConfig{
         Assert.assertTrue(Registrationpageobjects.getLoggedinPage().isDisplayed());
 
     }
-
-
 
 }

@@ -1,5 +1,13 @@
 package au.com.uiautomation;
 
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -8,34 +16,18 @@ import java.util.Calendar;
 import java.util.HashMap;
 import java.util.Properties;
 
-//import Configuration;
-import cucumber.api.java.Before;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-import org.openqa.selenium.chrome.ChromeOptions;
-import org.openqa.selenium.remote.DesiredCapabilities;
-
-
 public class BaseConfig {
 
-    private static String OS = System.getProperty("os.name").toLowerCase();
     private static final Logger LOGGER = LoggerFactory.getLogger(BaseConfig.class);
     public static WebDriver driver ;
     public static String envbrowser;
     private static String baseURL;
-    private static String email;
 
     public static void configbrowser() {
         System.out.println("Inside Config browser");
 
-        //Configuration config = new Configuration();
-        //config.getconfig();
-
-        File chrome = null;
-        File firefox = null;
+        File chrome;
+        File firefox;
 
         Properties prop = new Properties();
         InputStream input = null;
@@ -140,7 +132,7 @@ public class BaseConfig {
         String month1 = Integer.toString(dt1.get(Calendar.MONTH)+1);
         if (month1.length() == 1)
             month1 = "0" + month1;
-        email = "test_practice" + date1 + month1 + sys_time ;
+        String email = "test_practice" + date1 + month1 + sys_time ;
 
 
         email += "@mailinator.com";
@@ -151,10 +143,5 @@ public class BaseConfig {
     public static String setValueForFirefox(String textValue){
         return  "arguments[0].value = '" + textValue + "';";
     }
-
-    public static void terminatebrowser()
-     {
-         driver.quit();
-     }
 
 }

@@ -1,17 +1,12 @@
 package au.com.uiautomation.Page;
 
 import au.com.uiautomation.BaseConfig;
-import au.com.uiautomation.PageObjects.HomePageObjects;
-import au.com.uiautomation.PageObjects.Registrationpageobjects;
 import au.com.uiautomation.PageObjects.SummerDressesPageObjects;
 import au.com.uiautomation.ReadTestData;
 import org.hamcrest.CoreMatchers;
 import org.junit.Assert;
-import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.support.ui.Select;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

@@ -2,13 +2,11 @@ package au.com.uiautomation;
 
 
 import com.opencsv.CSVReader;
-import com.opencsv.CSVWriter;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.io.File;
 import java.io.FileReader;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
@@ -28,7 +26,7 @@ public class ReadTestData {
 		public static HashMap<String, Properties> populateDataFromCSVFile(){
 	    try {
 	    	props = new Properties();
-	    	int count =1,colNumber=0;
+	    	int count =1,colNumber;
 	    	String scenario="";
 
 	    	String OS = System.getProperty("os.name");
@@ -48,7 +46,6 @@ public class ReadTestData {
 	        	 for (colNumber=0;count<(line.length-1);colNumber++) {
 	        		 if(colNumber==0){
 	 	        		scenario = line[colNumber];
-	 	        		continue;
 	 	        	}else{
 	 	        		props.setProperty(line[count], line[++count]);
 	 	        		count++;
@@ -89,12 +86,10 @@ public class ReadTestData {
 				return "";
 			else {
 				result = result.replace("\"", "");
-				result.trim();
+				result = result.trim();
 			}
 		}
 		return result;
 	}
-	
-
 	
 }

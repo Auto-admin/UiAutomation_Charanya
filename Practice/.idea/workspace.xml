@@ -2,16 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c278b304-27e9-45f3-8ca5-4ad4edc841eb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/Practice-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/Practice-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/au/com/uiautomation/Page/HomePage.class" afterPath="$PROJECT_DIR$/target/test-classes/au/com/uiautomation/Page/HomePage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/au/com/uiautomation/Page/RegistrationPage.class" afterPath="$PROJECT_DIR$/target/test-classes/au/com/uiautomation/Page/RegistrationPage.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-20-06" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-20-07" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-20-20" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-20-22" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-20-40" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-21-16" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-21-17" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-21-21" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-21-23" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-21-26" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-21-27" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-21-28" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-21-30" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-21-34" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-21-35" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-21-57" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-21-59" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-22-04" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-22-09" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-22-10" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-22-11" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-22-12" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-22-16" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-22-22" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-22-23" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-22-42" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-22-43" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-22-46" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-22-47" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-22-48" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-22-49" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-22-50" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-22-52" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-22-53" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-22-54" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-22-56" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-22-57" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-23-00" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-23-07" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-23-12" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-23-13" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-23-16" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-23-18" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/log.out.2018-05-02-23-20" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Practice/Login.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/Configuration.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Practice/Login.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-html-report/formatter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-html-report/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-html-report/jquery-1.8.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-html-report/report.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cucumber-html-report/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/au/com/uiautomation/Configuration.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/CreateProperties.class" afterPath="$PROJECT_DIR$/target/classes/CreateProperties.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/au/com/uiautomation/BaseConfig.class" afterPath="$PROJECT_DIR$/target/test-classes/au/com/uiautomation/BaseConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/au/com/uiautomation/ReadTestData.class" afterPath="$PROJECT_DIR$/target/test-classes/au/com/uiautomation/ReadTestData.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/au/com/uiautomation/RunCucumberTest.class" afterPath="$PROJECT_DIR$/target/test-classes/au/com/uiautomation/RunCucumberTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/au/com/uiautomation/StepDefinitions/RegistrationSteps.class" afterPath="$PROJECT_DIR$/target/test-classes/au/com/uiautomation/StepDefinitions/RegistrationSteps.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/TestData.csv" afterPath="$PROJECT_DIR$/target/classes/TestData.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/cucumber-html-report/report.js" afterPath="$PROJECT_DIR$/target/cucumber-html-report/report.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/TestData.csv" afterPath="$PROJECT_DIR$/target/test-classes/TestData.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/log.out" afterPath="$PROJECT_DIR$/logs/log.out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ReadMe.Txt" afterPath="$PROJECT_DIR$/src/ReadMe.Txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/CreateProperties.java" afterPath="$PROJECT_DIR$/src/main/java/CreateProperties.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/BaseConfig.java" afterPath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/BaseConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/CartPage.java" afterPath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/CartPage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/HomePage.java" afterPath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/HomePage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/RegistrationPage.java" afterPath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/RegistrationPage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/SummerDressesPage.java" afterPath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/SummerDressesPage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/ReadTestData.java" afterPath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/ReadTestData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/RunCucumberTest.java" afterPath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/RunCucumberTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/StepDefinitions/CartSteps.java" afterPath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/StepDefinitions/CartSteps.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/StepDefinitions/FirstandLastSteps.java" afterPath="$PROJECT_DIR$/src/test/java/au/com/uiautomation/StepDefinitions/FirstandLastSteps.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +82,48 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="ReadMe.Txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ReadMe.Txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Registration.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/Features/Registration.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="46" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pricesorting.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/Features/Pricesorting.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Megamenu.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/Features/Megamenu.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,6 +136,9 @@
     <findStrings>
       <find>list</find>
       <find>move</find>
+      <find>email</find>
+      <find>reader</find>
+      <find>hread.sleep</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -51,29 +155,35 @@
         <option value="$PROJECT_DIR$/src/test/java/au/com/uiautomation/PageObjects/Registrationpageobjects.java" />
         <option value="$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/MegaMenuSteps.java" />
         <option value="$PROJECT_DIR$/src/test/java/au/com/uiautomation/StepDefinitions/FirstSteps.java" />
-        <option value="$PROJECT_DIR$/src/test/java/au/com/uiautomation/StepDefinitions/FirstandLastSteps.java" />
         <option value="$PROJECT_DIR$/src/test/resources/Features/Megamenu.feature" />
         <option value="$PROJECT_DIR$/src/test/java/au/com/uiautomation/PageObjects/HomePageObjects.java" />
         <option value="$PROJECT_DIR$/src/test/resources/Features/Pricesorting.feature" />
-        <option value="$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/HomePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/au/com/uiautomation/PageObjects/SummerDressesPAgeObjects.java" />
         <option value="$PROJECT_DIR$/src/test/java/au/com/uiautomation/StepDefinitions/RegistrationSteps.java" />
-        <option value="$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/SummerDressesPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/RegistrationPage.java" />
         <option value="$PROJECT_DIR$/src/test/resources/Features/CheckCart.feature" />
         <option value="$PROJECT_DIR$/src/test/resources/Features/Changecolour.Feature" />
         <option value="$PROJECT_DIR$/src/test/java/au/com/uiautomation/StepDefinitions/MegaMenuSteps.java" />
         <option value="$PROJECT_DIR$/src/test/resources/TestData.csv" />
-        <option value="$PROJECT_DIR$/src/test/java/au/com/uiautomation/ReadTestData.java" />
         <option value="$PROJECT_DIR$/src/test/java/au/com/uiautomation/PageObjects/SummerDressesPageObjects.java" />
-        <option value="$PROJECT_DIR$/src/test/java/au/com/uiautomation/StepDefinitions/CartSteps.java" />
-        <option value="$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/CartPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/au/com/uiautomation/CheckCartRunnerTest.java" />
         <option value="$PROJECT_DIR$/target/generated-test-sources/cucumber/Parallel01IT.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/au/com/uiautomation/RunCucumberTest.java" />
         <option value="$PROJECT_DIR$/environment.properties" />
         <option value="$PROJECT_DIR$/target/surefire-reports/Parallel04IT.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/au/com/uiautomation/StepDefinitions/CartSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/au/com/uiautomation/StepDefinitions/FirstandLastSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/CartPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/SummerDressesPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Practice/Login.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CreateProperties.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/Features/Registration.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/au/com/uiautomation/RunCucumberTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/au/com/uiautomation/ReadTestData.java" />
+        <option value="$PROJECT_DIR$/src/test/java/au/com/uiautomation/BaseConfig.java" />
+        <option value="$PROJECT_DIR$/target/surefire-reports/Parallel03IT.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/RegistrationPage.java" />
+        <option value="$PROJECT_DIR$/src/ReadMe.Txt" />
       </list>
     </option>
   </component>
@@ -124,6 +234,19 @@
             <path>
               <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -141,6 +264,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -337,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1525602859439</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit with last two scenarios and parallel run">
+      <created>1525602912537</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1525602912537</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -350,18 +481,6 @@
     <history-entry file="CheckCartRunnerTest - 2018.05.06 at 20h 24m 46s.xml">
       <configuration name="CheckCartRunnerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunCucumberTest - 2018.05.06 at 01h 40m 39s.xml">
-      <configuration name="RunCucumberTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunCucumberTest - 2018.05.06 at 01h 47m 31s.xml">
-      <configuration name="RunCucumberTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunCucumberTest - 2018.05.06 at 01h 49m 35s.xml">
-      <configuration name="RunCucumberTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunCucumberTest - 2018.05.06 at 02h 03m 00s.xml">
-      <configuration name="RunCucumberTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RunCucumberTest - 2018.05.06 at 02h 04m 22s.xml">
       <configuration name="RunCucumberTest" configurationId="JUnit" />
     </history-entry>
@@ -369,6 +488,18 @@
       <configuration name="RunCucumberTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="RunCucumberTest - 2018.05.06 at 20h 27m 44s.xml">
+      <configuration name="RunCucumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunCucumberTest - 2018.05.06 at 21h 42m 08s.xml">
+      <configuration name="RunCucumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunCucumberTest - 2018.05.06 at 21h 50m 08s.xml">
+      <configuration name="RunCucumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunCucumberTest - 2018.05.06 at 21h 51m 54s.xml">
+      <configuration name="RunCucumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunCucumberTest - 2018.05.06 at 22h 25m 06s.xml">
       <configuration name="RunCucumberTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -384,11 +515,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46620047" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.67832166" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3811189" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30128893" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983682" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -400,7 +533,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -441,14 +573,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/SummerDressesPage.java</url>
-          <line>63</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
@@ -518,21 +642,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs/log.out">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/BaseConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="30" column="23" lean-forward="false" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.1.8/cucumber-core-1.1.8-sources.jar!/cucumber/runtime/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -540,54 +649,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/StepDefinitions/RegistrationSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-732">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/StepDefinitions/FirstandLastSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="22" column="53" lean-forward="true" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/StepDefinitions/BaseSeleniumTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/PageObjects/Registrationpageobjects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/PageObjects/HomePageObjects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/Configuration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/Features/Changecolour.feature" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.0.0/selenium-api-3.0.0.jar!/org/openqa/selenium/WebDriver.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -596,88 +658,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/SummerDressesPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/TestData.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="26" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/ReadTestData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="e#474#494#0" expanded="true" />
-            <element signature="e#2119#2139#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/StepDefinitions/CartSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="25" column="47" lean-forward="false" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/PageObjects/SummerDressesPageObjects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="58" column="29" lean-forward="false" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/RegistrationPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="33" column="103" lean-forward="false" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="103" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/StepDefinitions/MegaMenuSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/CartPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -709,42 +694,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/Features/CheckCart.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/Features/Megamenu.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/Features/Registration.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/cucumber-html-report/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="129" column="68" lean-forward="false" selection-start-line="129" selection-start-column="68" selection-end-line="129" selection-end-column="68" />
           <folding />
         </state>
       </provider>
@@ -767,36 +720,165 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/surefire-reports/Parallel01IT.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/surefire-reports/Parallel02IT.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/surefire-reports/Parallel03IT.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/generated-test-sources/cucumber/Parallel03IT.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/environment.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="51" column="29" lean-forward="true" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/StepDefinitions/MegaMenuSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/PageObjects/Registrationpageobjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/CartPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="59" column="47" lean-forward="false" selection-start-line="59" selection-start-column="47" selection-end-line="59" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/StepDefinitions/CartSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/SummerDressesPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="78" column="13" lean-forward="false" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreateProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Practice/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/StepDefinitions/FirstandLastSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="105" column="56" lean-forward="false" selection-start-line="105" selection-start-column="28" selection-end-line="105" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/PageObjects/HomePageObjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="94" column="5" lean-forward="false" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/BaseConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="28" column="19" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/ReadTestData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="88" column="32" lean-forward="false" selection-start-line="88" selection-start-column="32" selection-end-line="88" selection-end-column="32" />
+          <folding>
+            <element signature="e#417#437#0" expanded="true" />
+            <element signature="e#2037#2057#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/PageObjects/SummerDressesPageObjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/log.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/RunCucumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -809,36 +891,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReadMe.Txt">
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/Parallel03IT.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="84" />
+        <state relative-caret-position="294">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/Parallel02IT.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/Parallel01IT.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/StepDefinitions/RegistrationSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="45" column="35" lean-forward="false" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/Page/RegistrationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="67" column="27" lean-forward="true" selection-start-line="67" selection-start-column="27" selection-end-line="67" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/log.out.2018-05-06-20-58">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-783">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/log.out.2018-05-06-20-59">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/Features/CheckCart.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/Features/Megamenu.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/Features/Pricesorting.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="17" />
+        <state relative-caret-position="0">
+          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/au/com/uiautomation/RunCucumberTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/Features/Registration.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="10" column="46" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="46" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/environment.properties">
+    <entry file="file://$PROJECT_DIR$/src/ReadMe.Txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        <state relative-caret-position="336">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>

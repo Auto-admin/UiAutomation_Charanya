@@ -94,5 +94,4 @@ public class HomePage extends BaseConfig {
       Assert.assertEquals(HomePageObjects.getPageSummerDresses().getText(),"Summer Dresses");
     }
 
-
 }

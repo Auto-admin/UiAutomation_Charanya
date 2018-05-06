@@ -1,3 +1,0 @@
-2018-05-02 22:47:01 INFO  RegistrationSteps:31 - Entering valid email and clicking on create account
-2018-05-02 22:47:01 INFO  BaseConfig:148 - email address: test_practice02051525265221453@mailinator.com
-2018-05-02 22:47:02 INFO  RegistrationSteps:39 - Check if the account creation page is loaded
