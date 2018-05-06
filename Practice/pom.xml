@@ -31,17 +31,6 @@
             <name>In Project Repo</name>
             <url>file:${project.basedir}/lib</url>
         </repository>
-        <repository>
-            <id>maven-group</id>
-            <name>maven-group</name>
-            <url>http://ec2-52-62-214-120.ap-southeast-2.compute.amazonaws.com:8081/repository/maven-group/</url>
-            <releases>
-                <enabled>true</enabled>
-            </releases>
-            <snapshots>
-                <enabled>true</enabled>
-            </snapshots>
-        </repository>
     </repositories>
 
     <build>
